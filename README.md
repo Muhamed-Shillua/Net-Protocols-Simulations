@@ -47,8 +47,8 @@ Network_Protocols_Simulations/
 ### Setup
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/Muhamed-Shillua/Net_Protocols_Simulation.git
-    cd Net_Protocols_Simulation
+    git clone https://github.com/Muhamed-Shillua/Net_Protocols_Simulations.git
+    cd Net_Protocols_Simulations
     ```
 
 2. Navigate to the desired protocol folder (e.g., TCP):
