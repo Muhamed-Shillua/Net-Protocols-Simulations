@@ -79,4 +79,4 @@ Feel free to fork this repository and create pull requests with improvements, ne
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions, feel free to reach out to me at: shilluamuhamed@egmail.com
+For any questions, feel free to reach out to me at: shilluamuhamed@gmail.com
