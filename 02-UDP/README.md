@@ -2,7 +2,7 @@
 
 This is a basic simulation of the **User Datagram Protocol (UDP)**. It demonstrates how a connectionless data transfer works, where the server receives datagrams from a client without establishing a persistent connection.
 
-![Result](02-UDP/Result)
+![Result](Result.png)
 
 ## How to Run the Simulation
 
