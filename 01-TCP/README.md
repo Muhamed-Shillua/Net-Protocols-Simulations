@@ -2,6 +2,8 @@
 
 This is a basic simulation of the **Transmission Control Protocol (TCP)**. It demonstrates how the connection setup, data transfer, and connection teardown work in TCP.
 
+![Screenshot](Screenshot.png)
+
 ## How to Run the Simulation
 
 ### 1. **TCP Server**
