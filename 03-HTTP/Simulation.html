@@ -1,0 +1,71 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1919
+Connection: close
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Protocol Simulation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0077cc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 30px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #0077cc;
+        }
+        p {
+            line-height: 1.6;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Network Protocol Simulation</h1>
+        <p>A simple demonstration using C++ and raw sockets</p>
+    </header>
+    <main>
+        <section>
+            <h2>Purpose of the Simulation</h2>
+            <p>This project simulates how different networking protocols (like TCP, UDP, HTTP) work at a basic level using C++.</p>
+        </section>
+        <section>
+            <h2>What You Can Learn</h2>
+            <ul>
+                <li>How sockets are used in C++ for communication</li>
+                <li>The difference between TCP and UDP</li>
+                <li>How HTTP responses are sent from a server to a browser</li>
+            </ul>
+        </section>
+        <section>
+            <h2>How It Works</h2>
+            <p>The server listens on a specific port and responds with a static HTML file when a client (like your browser) connects.</p>
+        </section>
+        <section>
+            <h2>Example</h2>
+            <p>Run the server, then open <code>http://localhost:9090</code> in your browser to see this page served by the C++ server.</p>
+        </section>
+    </main>
+</body>
+</html>
